@@ -82,6 +82,16 @@ TRAINING MODEL DIAGRAM
 
 ![rWF7bRY](https://github.com/ahmetdzdrr/GenderDetectionOpenCV/assets/117534684/48f03f67-8020-404b-a12a-b5ea56ed640d)
 
+GlobalAveragePooling2D()(x): This line applies global average pooling to the x tensor. Global average pooling reduces the spatial dimensions of the tensor while retaining the channel information.
+
+Dense(512, activation='relu')(x): This line adds a fully connected dense layer with 512 units and applies the ReLU activation function to the x tensor.
+
+Dropout(0.5)(x): This line adds a dropout layer with a rate of 0.4 to the x tensor. Dropout randomly sets a fraction of input units to 0 during training, which helps prevent overfitting.
+
+Dense(512, activation='relu')(x): This line adds another fully connected dense layer with 512 units and applies the ReLU activation function to the x tensor.
+
+Dense(2, activation='softmax')(x): This line adds the final dense layer with 2 units, representing the number of classes in the binary classification task. The softmax activation function is used to obtain the probability distribution over the classes.
+
 *****************************************************************************************************************************************
 
 TEST RESULTS
