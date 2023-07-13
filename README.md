@@ -12,13 +12,17 @@ http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 Our dataset consists of over 200,000 images. There is also a separate dataset that contains various attribute classes related to these images. The recommended splitting of the dataset is as follows:
 
 Training: 0 - 162,000
+
 Validation: 162,000 - 182,000
+
 Testing: 182,000 - 202,000
 
 In our project, we scaled these numbers as follows:
 
 Training: 20,000 samples
+
 Validation: 4,000 samples
+
 Testing: 4,000 samples
 
 These samples were used in our project.
