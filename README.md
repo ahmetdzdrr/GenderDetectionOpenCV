@@ -27,6 +27,8 @@ Testing: 4,000 samples
 
 These samples were used in our project.
 
+
+
 AN EXAMPLE FROM DATASET
 
 An example of the data in the dataset is shown on an image with three different attributes.
@@ -38,11 +40,14 @@ Name: 000103.jpg, dtype: int64
 ![download](https://github.com/ahmetdzdrr/GenderDetectionOpenCV/assets/117534684/f41c2677-1562-43e4-ba52-73bc4b427c3f)
 
 
+
 GENDER ANALYSIS
 
 The gender distribution in the dataset has been visualized and analyzed. In the analysis, it is observed that there is no imbalance in the structure.
 
 ![download](https://github.com/ahmetdzdrr/GenderDetectionOpenCV/assets/117534684/b517d75a-512e-4b59-af61-527e4cb2ccda)
+
+
 
 DATA AUGMENTATION
 
