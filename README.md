@@ -84,7 +84,7 @@ TRAINING MODEL DIAGRAM
 
 GlobalAveragePooling2D()(x): This line applies global average pooling to the x tensor. Global average pooling reduces the spatial dimensions of the tensor while retaining the channel information.
 
-Dense(512, activation='relu')(x): This line adds a fully connected dense layer with 512 units and applies the ReLU activation function to the x tensor.
+Dense(1024, activation='relu')(x): This line adds a fully connected dense layer with 1024 units and applies the ReLU activation function to the x tensor.
 
 Dropout(0.5)(x): This line adds a dropout layer with a rate of 0.4 to the x tensor. Dropout randomly sets a fraction of input units to 0 during training, which helps prevent overfitting.
 
