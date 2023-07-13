@@ -1,4 +1,8 @@
 # GenderDetectionOpenCV
+
+
+![25cc7a_b3a1bfc552984e71a505729f3d89baed~mv2](https://github.com/ahmetdzdrr/GenderDetectionOpenCV/assets/117534684/21f2ae4a-afc4-40e1-a34a-c08776b5e06e)
+
 We performed gender detection on a CNN architecture using the OpenCV technology.
 
 In this project, we attempted to perform gender detection using the Celeba dataset and OpenCV. For this project, we utilized the InceptionV3 model as a Keras application.
