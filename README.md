@@ -1,3 +1,4 @@
+![Ekran görüntüsü 2023-07-14 002352](https://github.com/ahmetdzdrr/GenderDetectionOpenCV/assets/117534684/770d05a7-9c49-4bfa-b533-765a634bf5a8)
 # GenderDetectionOpenCV
 
 
@@ -96,12 +97,9 @@ Dense(2, activation='softmax')(x): This line adds the final dense layer with 2 u
 
 TEST RESULTS
 
-![download](https://github.com/ahmetdzdrr/GenderDetectionOpenCV/assets/117534684/8d367030-c542-4521-8403-13490b5cdef7)
 
-![download](https://github.com/ahmetdzdrr/GenderDetectionOpenCV/assets/117534684/5854bd82-a64c-4648-a712-8818b40941cc)
-
-
-
+![Uploading Ekran görüntüsü 2023-07-14 002348.png…]()
+![Uploading Ekran görüntüsü 2023-07-14 002358.png…]()
 
 
 
