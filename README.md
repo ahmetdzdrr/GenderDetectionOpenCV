@@ -37,6 +37,7 @@ Attractive    1
 Gender        0
 Young         1
 Name: 000103.jpg, dtype: int64
+
 ![download](https://github.com/ahmetdzdrr/GenderDetectionOpenCV/assets/117534684/f41c2677-1562-43e4-ba52-73bc4b427c3f)
 
 *****************************************************************************************************************************************
