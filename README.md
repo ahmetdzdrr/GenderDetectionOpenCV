@@ -1,4 +1,3 @@
-![Ekran görüntüsü 2023-07-14 002352](https://github.com/ahmetdzdrr/GenderDetectionOpenCV/assets/117534684/770d05a7-9c49-4bfa-b533-765a634bf5a8)
 # GenderDetectionOpenCV
 
 
