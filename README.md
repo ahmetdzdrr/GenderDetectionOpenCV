@@ -27,7 +27,7 @@ Testing: 4,000 samples
 
 These samples were used in our project.
 
-
+*****************************************************************************************************************************************
 
 AN EXAMPLE FROM DATASET
 
@@ -39,7 +39,7 @@ Young         1
 Name: 000103.jpg, dtype: int64
 ![download](https://github.com/ahmetdzdrr/GenderDetectionOpenCV/assets/117534684/f41c2677-1562-43e4-ba52-73bc4b427c3f)
 
-
+*****************************************************************************************************************************************
 
 GENDER ANALYSIS
 
@@ -47,7 +47,7 @@ The gender distribution in the dataset has been visualized and analyzed. In the 
 
 ![download](https://github.com/ahmetdzdrr/GenderDetectionOpenCV/assets/117534684/b517d75a-512e-4b59-af61-527e4cb2ccda)
 
-
+*****************************************************************************************************************************************
 
 DATA AUGMENTATION
 
@@ -58,19 +58,27 @@ Data augmentation helps in creating a more diverse and generalized dataset, enab
 
 ![download](https://github.com/ahmetdzdrr/GenderDetectionOpenCV/assets/117534684/b7c9b8eb-97cf-412c-931f-f20cc7d2a6b1)
 
+*****************************************************************************************************************************************
+
 INCEPTION V3 MODEL STRUCTURE
 
 This is the structure of the Inception-V3 model, developed over the imagenet dataset.
-To use the weights in the Inception V3 model, you need to download the weight file from the designated folder and specify the directory path.
+To use the weights in the Inception V3 model, you need to download the weight file from the designated folder and specify the directory path. To download, you can click on the following link:
+
+https://www.kaggle.com/datasets/madmaxliu/inceptionv3/download?datasetVersionNumber=1
 
 Example: InceptionV3(weights='C:\Users\user\inception_v3_weights_tf_dim_ordering_tf_kernels_notop.h5, 
                       include_top=False, input_shape = (img_height, img_width, 3))
                       
 ![kdXUzu1](https://github.com/ahmetdzdrr/GenderDetectionOpenCV/assets/117534684/c9fa47db-3669-4133-8308-2ce73f69cb52)
 
+*****************************************************************************************************************************************
+
 TRAINING MODEL DIAGRAM
 
 ![rWF7bRY](https://github.com/ahmetdzdrr/GenderDetectionOpenCV/assets/117534684/48f03f67-8020-404b-a12a-b5ea56ed640d)
+
+*****************************************************************************************************************************************
 
 TEST RESULTS
 
